@@ -7,6 +7,7 @@ html {
   font-size: 14px;
 }
 body {
+  font-family: 'Inconsolata' !important;
   min-height: 100%;
 }
 

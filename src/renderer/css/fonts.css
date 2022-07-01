@@ -1,4 +1,9 @@
 @font-face {
+    font-family: 'Inconsolata';
+    src: url('../../assets/fonts/inconsolata.ttf');
+}
+
+@font-face {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 300;
